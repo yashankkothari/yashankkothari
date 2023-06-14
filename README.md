@@ -1,8 +1,15 @@
 ![Graphic Design/Video Editing](https://github.com/yashankkothari/yashankkothari/blob/main/Yashank.png)
 
+# Hi There 👋, I'm Yashank Kothari
 My Name is Yashank, I am a Graphic designer and video editor passionate about game development and web design. skilled in producing immersive videos and visually stunning content that effectively presents brand messages. continually exploring new design trends and innovations in tech to produce interactive experiences
 
-Skills: **Photoshop / Premiere Pro / After Effects / Illustrator / Figma / Davinci Resolve**
+## Skills And Experience
+* Photoshop
+* Premiere Pro 
+* After Effects
+* Illustrator
+* Figma
+* Davinci Resolve
 
 - 📫 How to reach me: kothariyashank@gmail.com 
 
