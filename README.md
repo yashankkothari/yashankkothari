@@ -5,15 +5,12 @@ My Name is Yashank, I am a Graphic designer and video editor passionate about ga
 
 ## Skills And Experience
 
-[![Design Skills](https://skillicons.dev/icons?i=ae,pr,ps,figma,ai)](https://skillicons.dev)
+### Design Skills
+[![Design Skills](https://skillicons.dev/icons?i=ae,pr,ps,figma,ai,blender)](https://skillicons.dev)
 
+### Tech Stack
+[![Tech Skills](https://skillicons.dev/icons?i=c,cpp,py,java,idea)](https://skillicons.dev)
 
-* Photoshop
-* Premiere Pro 
-* After Effects
-* Illustrator
-* Figma
-* Davinci Resolve
 
 - 📫 How to reach me: kothariyashank@gmail.com 
 
