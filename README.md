@@ -5,7 +5,7 @@ My Name is Yashank, I am a Graphic designer and video editor passionate about ga
 
 ## Skills And Experience
 
-### Design Skills
+### Design Stack
 [![Design Skills](https://skillicons.dev/icons?i=ae,pr,ps,figma,ai,blender)](https://skillicons.dev)
 
 ### Tech Stack
