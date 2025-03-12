@@ -5,12 +5,11 @@ My Name is Yashank, I am a Graphic designer and video editor passionate about ga
 
 ## Skills And Experience
 
+### Tech Stack
+[![Tech Skills](https://skillicons.dev/icons?i=c,cpp,py,java,css,js,linux,nextjs,nodejs,react,github,docker,idea)](https://skillicons.dev)
+
 ### Design Stack
 [![Design Skills](https://skillicons.dev/icons?i=ae,pr,ps,figma,ai,blender)](https://skillicons.dev)
-
-### Tech Stack
-[![Tech Skills](https://skillicons.dev/icons?i=c,cpp,py,java,idea)](https://skillicons.dev)
-
 
 - 📫 How to reach me: kothariyashank@gmail.com 
 
