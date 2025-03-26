@@ -1,7 +1,7 @@
 ![Graphic Design/Video Editing](https://github.com/yashankkothari/yashankkothari/blob/main/Yashank.png)
 
 # Hi There 👋, I'm Yashank Kothari
-My Name is Yashank, I am a Graphic designer and video editor passionate about game development and web design. skilled in producing immersive videos and visually stunning content that effectively presents brand messages. continually exploring new design trends and innovations in tech to produce interactive experiences
+Hi, I'm Yashank, a 21-year-old computer engineering student with a passion for software development. My interests lie in frontend development, game development, and building impactful software solutions. I'm always eager to explore new technologies and enhance user experiences. Currently, I'm honing my skills in both development and design to create innovative and engaging projects.
 
 ## Skills And Experience
 
