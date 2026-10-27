@@ -1,35 +1,37 @@
-# Hi, I'm Yashank 👋
+# hey, i'm yashank 👋
 
-**Data Engineer @ ICICI Lombard** · building the pipelines AI runs on, and the AI on top of them.
+**i make computers do things. sometimes useful, sometimes just for fun.**
 
-I work across **data engineering** (Snowflake, dbt, Airflow, PL/SQL) and **AI/ML**: classical ML, deep learning, fraud detection, LLM agents, evals and local models. I write about it at **[yashank.site](https://www.yashank.site)**.
+by day i'm a data engineer at **icici lombard**, moving insurance data around so it ends up where it should. by night i build games, weird little tools, and the occasional ai thing that probably didn't need to exist.
 
-- 🏦 Now: automated Oracle ETL and OLTP→OLAP reconciliation for insurance data at ICICI Lombard
-- 🧴 Before: 30+ Airflow → Snowflake pipelines, dbt Medallion models, a 20+ table SAP S/4HANA migration and a Retool AI natural-language-to-SQL tool at Colgate-Palmolive
-- 💳 Before that: AI/ML intern at Card91, researching real-time fraud detection and evaluating the open-source Tazama engine
-- 🎓 B.Tech Computer Engineering, Honours in Data Science, KJ Somaiya (2026)
+```
+$ whoami
+data engineer · ai/ml tinkerer · game dev in progress · cs2 enjoyer
+```
 
-## 🔨 Featured projects
+## 🛠️ what i'm up to
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**OncoLytix**](https://github.com/yashankkothari/Lung-Cancer-Detection-Using-ML) | Lung cancer detection from CT scans with a deep learning model behind a mobile app | Python · TensorFlow · Flask · React Native |
-| [**MalNotWare**](https://github.com/yashankkothari/Malnotware-Malware-Detection-with-AI-ML) | AI/ML malware detection that combines static ML models, sandboxed dynamic analysis and VirusTotal | Python · EMBER ML · YARA · FastAPI · Next.js |
-| [**TrueHire**](https://github.com/yashankkothari/TruHire) | LLM-powered candidate verification that cross-checks résumés against GitHub and scores credibility | Gemini · JavaScript · Prompt engineering |
-| [**NotesAid**](https://github.com/yashankkothari/Notes-Aid) | Open-source study-notes PWA with 2,700+ users in one semester and 60+ community PRs reviewed | Next.js · TypeScript · PWA |
-| [**Pixopoly**](https://pixopoly-website.vercel.app) | My pixel-art board game, in development | Godot · GDScript |
-| [**the-lodge**](https://www.yashank.site) | My site and blog on data engineering, agents and LLMs | Eleventy · CSS |
+- 🏦 shipping oracle etl and reconciliation jobs at icici lombard
+- 🎲 building **[pixopoly](https://pixopoly-website.vercel.app)**, my pixel-art board game, in godot
+- ✍️ writing about data, agents and llms at **[yashank.site](https://www.yashank.site)**
+- 🧪 poking at llm agents, evals and local models to see what breaks
 
-## 🧰 Stack
+## 🕹️ stuff i've built
 
-**Data:** Python · SQL · PL/SQL · Snowflake · dbt · Apache Airflow · Oracle · PostgreSQL · pandas · NumPy
-**AI/ML:** scikit-learn · TensorFlow · deep learning · LLMs · AI agents & tool calling · RAG · LLM evals · Ollama
-**Cloud & tools:** AWS · GCP · Docker · Linux (Arch) · Git · FastAPI · Next.js
+- **[oncolytix](https://github.com/yashankkothari/Lung-Cancer-Detection-Using-ML)**: upload a lung ct scan, get a cancer risk prediction back
+- **[malnotware](https://github.com/yashankkothari/Malnotware-Malware-Detection-with-AI-ML)**: is this file malware? ml + sandboxing + virustotal will tell you
+- **[notes-aid](https://github.com/yashankkothari/Notes-Aid)**: study notes app that 2,700+ students actually used
+
+## 🧰 toys i play with
 
 [![Stack](https://skillicons.dev/icons?i=py,postgres,aws,gcp,docker,linux,arch,git,fastapi,tensorflow,nextjs,ts,godot)](https://skillicons.dev)
 
-## 🎨 Off the clock
+plus snowflake, dbt and airflow at work.
 
-I make art and edit video ([![Design](https://skillicons.dev/icons?i=ae,pr,ps,figma,blender&perline=5)](https://skillicons.dev)), play CS2, and listen to a lot of Michael Jackson.
+## 🎨 off the clock
 
-📫 kothariyashank@gmail.com · [LinkedIn](https://www.linkedin.com/in/yashankkothari) · [yashank.site](https://www.yashank.site)
+editing videos, making art, losing cs2 matches, and listening to way too much michael jackson.
+
+[![Design](https://skillicons.dev/icons?i=ae,pr,ps,figma,blender&perline=5)](https://skillicons.dev)
+
+📫 kothariyashank@gmail.com · [linkedin](https://www.linkedin.com/in/yashankkothari) · [yashank.site](https://www.yashank.site)
