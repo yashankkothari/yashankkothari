@@ -5,8 +5,8 @@
 I work across **data engineering** (Snowflake, dbt, Airflow, PL/SQL) and **AI/ML**: classical ML, deep learning, fraud detection, LLM agents, evals and local models. I write about it at **[yashank.site](https://www.yashank.site)**.
 
 - 🏦 Now: automated Oracle ETL and OLTP→OLAP reconciliation for insurance data at ICICI Lombard
-- 🧴 Before: Airflow → Snowflake ingestion, dbt Medallion models and a Retool AI natural-language-to-SQL tool at Colgate-Palmolive
-- 💳 Before that: AI/ML intern at Card91, real-time fraud detection (30+ rules, 98.5% detection accuracy)
+- 🧴 Before: 30+ Airflow → Snowflake pipelines, dbt Medallion models, a 20+ table SAP S/4HANA migration and a Retool AI natural-language-to-SQL tool at Colgate-Palmolive
+- 💳 Before that: AI/ML intern at Card91, researching real-time fraud detection and evaluating the open-source Tazama engine
 - 🎓 B.Tech Computer Engineering, Honours in Data Science, KJ Somaiya (2026)
 
 ## 🔨 Featured projects
