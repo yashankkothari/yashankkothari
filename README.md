@@ -2,7 +2,7 @@
 
 **i make computers do things. sometimes useful, sometimes just for fun.**
 
-by day i'm a data engineer at **icici lombard**, moving insurance data around so it ends up where it should. by night i build games, weird little tools, and the occasional ai thing that probably didn't need to exist.
+by day i'm a data engineer, moving data around so it ends up where it should. by night i build games, weird little tools, and the occasional ai thing that probably didn't need to exist.
 
 ```
 $ whoami
@@ -11,7 +11,7 @@ data engineer · ai/ml tinkerer · game dev in progress · cs2 enjoyer
 
 ## 🛠️ what i'm up to
 
-- 🏦 shipping oracle etl and reconciliation jobs at icici lombard
+- 🏦 shipping etl pipelines and reconciliation jobs at my day job
 - 🎲 building **[pixopoly](https://pixopoly-website.vercel.app)**, my pixel-art board game, in godot
 - ✍️ writing about data, agents and llms at **[yashank.site](https://www.yashank.site)**
 - 🧪 poking at llm agents, evals and local models to see what breaks
@@ -26,7 +26,7 @@ data engineer · ai/ml tinkerer · game dev in progress · cs2 enjoyer
 
 [![Stack](https://skillicons.dev/icons?i=py,postgres,aws,gcp,docker,linux,arch,git,fastapi,tensorflow,nextjs,ts,godot)](https://skillicons.dev)
 
-plus snowflake, dbt and airflow at work.
+plus snowflake, dbt and airflow.
 
 ## 🎨 off the clock
 
